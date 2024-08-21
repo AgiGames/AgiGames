@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MongoDB Databases**
 
-- 🌱 I’m currently learning **Machine Learning in Java**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **C/C++**
 
