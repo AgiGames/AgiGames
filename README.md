@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agilesh Arumugam</h1>
 <h3 align="center">I like to learn coding the hard way.</h3>
 
-- 🔭 I’m currently working on **MongoDB Databases**
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Database Management Systems**
 
-- 💬 Ask me about **C/C++**
+- 💬 Ask me about **C/C++, Java and Python**
 
 - 📫 How to reach me **agilesh2k6@gmail.com**
 
